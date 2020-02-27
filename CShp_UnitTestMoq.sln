@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShp_UnitTestMoq", "CShp_UnitTestMoq\CShp_UnitTestMoq.csproj", "{DB86C4AB-0329-48BE-9DB3-20F4B948D9E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CShp_UnitTestMoq", "CShp_UnitTestMoq\CShp_UnitTestMoq.csproj", "{DB86C4AB-0329-48BE-9DB3-20F4B948D9E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShp_XUnitTest", "CShp_XUnitTest\CShp_XUnitTest.csproj", "{FEBB2666-C302-48EA-8F99-36ADD6C0727A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CShp_XUnitTest", "CShp_XUnitTest\CShp_XUnitTest.csproj", "{FEBB2666-C302-48EA-8F99-36ADD6C0727A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

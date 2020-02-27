@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CShp_UnitTestMoq
 {
-    class MaquinaCalculadora
+    public class MaquinaCalculadora
     {
         private ICalculadora calc;
 

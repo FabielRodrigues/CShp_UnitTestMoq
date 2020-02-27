@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CShp_UnitTestMoq
+namespace ConsoleApp1
 {
     class Program
     {
